@@ -1,0 +1,10 @@
+{
+  "name": "fullstack-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "words-to-lines.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC"
+}
